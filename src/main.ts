@@ -10,7 +10,6 @@ if(localStorage.getItem("aniskip_userid") == null) {
     localStorage.setItem("aniskip_userid", crypto.randomUUID());
 }
 
-// Main
 async function hashChangeHandler() {
     if(!location.hash.startsWith("#/player")) return;
     console.log("AniSkip: Player opened");

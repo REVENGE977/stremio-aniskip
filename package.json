@@ -7,5 +7,8 @@
     "build": "tsc"
   },
   "author": "REVENGE977",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
