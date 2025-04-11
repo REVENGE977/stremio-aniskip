@@ -62,7 +62,8 @@ These inconsistencies make it unreliable to fetch MyAnimeList to find the ID of 
 
 
 ## 📥 Downloads
-You can download the latest version from [the releases tab](https://github.com/REVENGE977/stremio-aniskip/releases).
+You can download the latest version from [releases](https://github.com/REVENGE977/stremio-aniskip/releases) 
+or directly download from the [dist folder](https://github.com/REVENGE977/stremio-aniskip/blob/main/dist/AniSkip.plugin.js).
 
 
 ## 🚨 Important Notice
