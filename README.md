@@ -51,7 +51,7 @@ These inconsistencies make it unreliable to fetch MyAnimeList to find the ID of 
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 48%;">
-    <img src="./images/IMDb.png" style="width: 40%;" />
+    <img src="./images/IMDB.png" style="width: 40%;" />
     <p style="font-size: 0.9em;">IMDb metaitem <b>(not supported)</b></p>
   </div>
   <div style="text-align: center; width: 48%;">
