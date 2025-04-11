@@ -1,0 +1,11 @@
+{
+  "name": "stremio-aniskip",
+  "version": "1.0.0",
+  "description": "This project is a plugin for Stremio Enhanced. It integrates the AniSkip API into Stremio to automatically skip anime openings/endings.",
+  "main": "./src/main.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "REVENGE977",
+  "license": "MIT"
+}
