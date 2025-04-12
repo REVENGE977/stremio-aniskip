@@ -24,6 +24,17 @@
 	</p>
 </p>
 
+## 📌 Table of Contents
+
+- [📌 Table of Contents](#-table-of-contents)
+- [❓ What is Stremio AniSkip?](#-what-is-stremio-aniskip)
+- [🛠 How does it work?](#-how-does-it-work)
+	- [Why only Kitsu is supported (for now)](#why-only-kitsu-is-supported-for-now)
+	- [TL;DR](#tldr)
+- [📥 Downloads](#-downloads)
+- [⭐ Support the Project](#-support-the-project)
+- [🚨 Important Notice](#-important-notice)
+
 ## ❓ What is Stremio AniSkip?
 This project is a plugin for [Stremio Enhanced](https://github.com/REVENGE977/stremio-enhanced). It integrates the [AniSkip API](https://api.aniskip.com/api-docs) into Stremio to automatically skip anime openings/endings. 
 
@@ -57,8 +68,10 @@ These inconsistencies make it unreliable to fetch MyAnimeList to find the ID of 
 
 ### TL;DR
 
+AniSkip (the API this plugin relies on) uses MyAnimeList IDs to identify anime, which are unreliable to obtain unless you're using Kitsu.
+
 **Just use the Kitsu addon.**  
-[Install it from here](https://www.stremio-addons.com/anime-kitsu.html) and always select the **Kitsu metaitem** when watching anime.
+[Install it from here](https://www.stremio-addons.com/anime-kitsu.html) and always select a **Kitsu metaitem** when watching anime.
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 48%;">
@@ -76,6 +89,14 @@ These inconsistencies make it unreliable to fetch MyAnimeList to find the ID of 
 You can download the latest version from [releases](https://github.com/REVENGE977/stremio-aniskip/releases) 
 or directly download from the [dist folder](https://github.com/REVENGE977/stremio-aniskip/blob/main/dist/AniSkip.plugin.js).
 
+## ⭐ Support the Project
+Consider giving the project a ⭐ star on GitHub! Your support helps more people discover it and keeps me motivated to improve it.
+
+If you'd like to go the extra mile, you can also support me by sponsoring the project. Every contribution, big or small, is truly appreciated!
+
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/REVENGE977)
 
 ## 🚨 Important Notice
 **This project is not affiliated in any way with Stremio or AniSkip.**
+
+<p align="center">💻 Developed with ❤️ by <a href="https://github.com/REVENGE977">REVENGE977</a> | 📜 Licensed under MIT</p>
