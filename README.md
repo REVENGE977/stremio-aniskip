@@ -29,6 +29,17 @@ This project is a plugin for [Stremio Enhanced](https://github.com/REVENGE977/st
 
 **This is an early version so you might encounter bugs.**
 
+It will highlight the skip segments in yellow and when the timestamp for them is reached, it will prompt you to skip or dismiss. It will automatically skip in 5 seconds if no option is chosen by the user.
+
+<img src="./images/aniskip-example.png" style="width: 60%;" />
+
+Here you can submit new vote segments or submit new ones. You can access this menu by pressing the skip icon.
+You can press "Now" to automatically enter the current timestamp.
+
+<img src="./images/aniskip-popup.png" style="width: 30%;" />
+
+<b>NOTE:</b> Currently, when you submit a new skip segment, you have to leave the stream you're watching and go back in to see the changes. This will change in an update coming later.
+
 
 ## 🛠 How does it work?
 
